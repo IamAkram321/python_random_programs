@@ -1,0 +1,1 @@
+print('''Johny Johny Yes Papa Poem is a classic nursery rhyme that promotes the importance of being true and honest. This Poem is the story of Johny, a little boy who gets caught by his father consuming sugar''')
